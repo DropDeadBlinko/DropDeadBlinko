@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @DropDeadBlinko
+- i have degree in arch vis, mostly using maya and ue4, 
+- I’m currently learning C++ and brushing up on ue4 blueprints,
+- I have a lot of time at the moment and i would really love to collaborate with someone on an ue4 project,
+- feel free you contact me on dropdeadblinko@googlemail.com 😊
